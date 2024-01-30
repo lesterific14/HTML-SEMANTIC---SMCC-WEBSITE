@@ -1,1 +1,41 @@
+main {
+		  width: 100%;
+		  background-image: url("smccbg.jpg");
+		}
 
+
+body {
+			background-color: #f2f2f2;
+			font-family: Arial, sans-serif;
+		}
+		header {
+			background-color: darkblue;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+		}
+		nav {
+			background-color: deepskyblue;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+		}
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			padding: 5px;
+		}
+		nav a:hover {
+			background-color: #777;
+		}
+		main {
+			padding: 20px;
+			text-align: center;
+		}
+		img {
+			width: 200px;
+			height: 200px;
+		}
+		
+		
+		
