@@ -1,9 +1,3 @@
-main {
-		  width: 100%;
-		  background-image: url("smccbg.jpg");
-		}
-
-
 body {
 			background-color: #f2f2f2;
 			font-family: Arial, sans-serif;
@@ -15,10 +9,11 @@ body {
 			text-align: center;
 		}
 		nav {
-			background-color: deepskyblue;
+			background-color: gold;
 			color: #fff;
 			padding: 10px;
 			text-align: center;
+			
 		}
 		nav a {
 			color: #fff;
@@ -26,16 +21,13 @@ body {
 			padding: 5px;
 		}
 		nav a:hover {
-			background-color: #777;
+			background-color: lightskyblue;
 		}
 		main {
 			padding: 20px;
 			text-align: center;
 		}
-		img {
-			width: 200px;
-			height: 200px;
-		}
+
 		
 		
 		
